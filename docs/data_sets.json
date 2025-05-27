@@ -3,12 +3,16 @@
 		country: "Ireland",
 		region: null,
 		provider: "Transport for Ireland",
+		provider_id: "ie_tfi",
+		version: 1,
 		format_version: 1
 	},
     "gtfs_northern_ireland_data": {
 		country: "UK",
 		region: "Northern Ireland",
 		provider: "Department of Transport",
+		provider_id: "uk_ni",
+		version: 1,
 		format_version: 1
 	}
 }
