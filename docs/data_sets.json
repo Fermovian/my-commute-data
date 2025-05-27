@@ -1,18 +1,18 @@
 {
     "gtfs_ireland_tfi_data": {
-		country: "Ireland",
-		region: null,
-		provider: "Transport for Ireland",
-		provider_id: "ie_tfi",
-		last_updated: "2025-05-27T13:43:00Z",
-		format_version: 1
+		"country": "Ireland",
+		"region": null,
+		"provider": "Transport for Ireland",
+		"provider_id": "ie_tfi",
+		"last_updated": "2025-05-27T13:43:00Z",
+		"format_version": 1
 	},
     "gtfs_northern_ireland_data": {
-		country: "UK",
-		region: "Northern Ireland",
-		provider: "Department of Transport",
-		provider_id: "uk_ni",
-		last_updated: "2025-05-27T13:43:00Z",
-		format_version: 1
+		"country": "UK",
+		"region": "Northern Ireland",
+		"provider": "Department of Transport",
+		"provider_id": "uk_ni",
+		"last_updated": "2025-05-27T13:43:00Z",
+		"format_version": 1
 	}
 }
